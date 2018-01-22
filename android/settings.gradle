@@ -1,0 +1,3 @@
+rootProject.name = 'redux4way'
+
+include ':app'
